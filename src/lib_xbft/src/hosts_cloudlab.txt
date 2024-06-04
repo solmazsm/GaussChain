@@ -1,0 +1,7 @@
+node0 slots=144 max-slots=144
+node1 slots=144 max-slots=144
+node2 slots=144 max-slots=144
+node3 slots=144 max-slots=144
+node4 slots=144 max-slots=144
+node5 slots=144 max-slots=144
+node6 slots=144 max-slots=144
