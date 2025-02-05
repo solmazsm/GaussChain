@@ -3,9 +3,13 @@ This repository contains the implementation for detecting the Gaussian attack in
 
 Contents
 📌 Attack Simulation: Implements the Gaussian attack where colluding clients inject controlled noise to manipulate token rewards.
+
 🔍 Detection Mechanism: Blockchain-based auditing protocol leveraging Merkle trees and peer verification.
+
 📊 Experiments & Evaluation: Scripts for running federated training with different datasets and aggregation algorithms.
+
 📂 Datasets: Preprocessed versions of MNIST, Fashion-MNIST, CIFAR-10, and SVHN.
+
 🛠 Reproducibility Guide: Step-by-step instructions to replicate our experiments.
 
 Getting Started
