@@ -2,7 +2,7 @@
 This repository contains the implementation for detecting the Gaussian attack in incentive-token-based federated learning systems. The code supports both attack simulation and blockchain-based auditing mechanisms to ensure transparency and security in FL environments.
 
 # Contents
- Attack Simulation: Implements the Gaussian attack where colluding clients inject controlled noise to manipulate token rewards.
+Attack Simulation: Implements the Gaussian attack where colluding clients inject controlled noise to manipulate token rewards.
 
 Detection Mechanism: Blockchain-based auditing protocol leveraging Merkle trees and peer verification.
 
