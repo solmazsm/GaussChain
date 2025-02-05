@@ -17,7 +17,10 @@ Datasets: Preprocessed versions of MNIST, Fashion-MNIST, CIFAR-10, and SVHN.
 Clone the repository and follow the instructions in README.md to set up the environment and run the simulations.
 
 git clone [your-repo-link]
+
 cd [repo-name]
+
 pip install -r requirements.txt
+
 # Citation
 If you use this work in your research, please cite our paper.
