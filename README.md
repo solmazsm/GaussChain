@@ -1,6 +1,6 @@
 # EDBT 2026 Submission
 # Gaussian Attack Detection in Incentive-Token-Based Federated Learning
-This repository contains the implementation for detecting the Gaussian attack in incentive-token-based federated learning systems, as presented in our EDBT 2026 submission. The code supports both attack simulation and blockchain-based auditing mechanisms to ensure transparency and security in FL environments.
+This repository contains the implementation for detecting the Gaussian attack in incentive-token-based federated learning systems, as presented in our EDBT 2026 submission. The code supports both attack and blockchain-based auditing mechanisms to ensure transparency and security in FL environments.
 
 # Contents
 Attack Simulation: Implements the Gaussian attack where colluding clients inject controlled noise to manipulate token rewards.
