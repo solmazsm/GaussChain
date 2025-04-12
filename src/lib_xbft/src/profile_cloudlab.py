@@ -2,7 +2,7 @@
 # Created on Sun Mar 06 2022
 #
 # profile_cloudlab.py
-# Copyright (C) 2022 dzhao@uw.edu
+# Copyright (C) 2022 
 # 
 # This program is free software: you can redistribute it and/or modify it
 # under the terms of the GNU General Public License as published by the Free
