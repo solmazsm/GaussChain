@@ -1,26 +1,22 @@
-# EDBT 2026 Submission
-# Gaussian Attack Detection in Incentive-Token-Based Federated Learning
-This repository contains the implementation for detecting the Gaussian attack in incentive-token-based federated learning systems, as presented in our EDBT 2026 submission. The code supports both attack and blockchain-based auditing mechanisms to ensure transparency and security in FL environments.
+# ICPP 2025 Submission  
+**Gaussian Attack Detection in Incentive-Token-Based Federated Learning**
 
-# Contents
-Attack Simulation: Implements the Gaussian attack where colluding clients inject controlled noise to manipulate token rewards.
+This repository contains the implementation for detecting Gaussian attacks in incentive-token-based federated learning systems, as presented in our ICPP 2025 submission. The code includes both the attack model and the blockchain-based auditing mechanism to ensure transparency and robustness in federated environments.
 
-Detection Mechanism: Blockchain-based auditing protocol leveraging Merkle trees and peer verification.
+---
 
-Experiments & Evaluation: Scripts for running federated training with different datasets and aggregation algorithms.
+## Contents
 
-Datasets: Preprocessed versions of MNIST, Fashion-MNIST, CIFAR-10, and SVHN.
+- **Attack Simulation**: Implementation of the Gaussian attack, where colluding clients inject controlled noise to manipulate token-based rewards.  
+- **Detection Mechanism**: Blockchain-based auditing protocol leveraging Merkle trees and peer verification for traceability.  
+- **Experiments & Evaluation**: Scripts for running federated training with various datasets and aggregation strategies.  
+- **Datasets**: Preprocessed versions of MNIST, Fashion-MNIST, CIFAR-10, and SVHN.  
+- **Reproducibility Guide**: Instructions to replicate all experiments from the paper.
 
- Reproducibility Guide: Step-by-step instructions to replicate our experiments.
+---
 
-# Getting Started
-Clone the repository and follow the instructions in README.md to set up the environment and run the simulations.
+## Getting Started
 
-git clone [your-repo-link]
+Clone the repository and follow the setup instructions in `README.md`.
 
-cd [repo-name]
 
-pip install -r requirements.txt
-
-# Citation
-If you use this work in your research, please cite our paper.
