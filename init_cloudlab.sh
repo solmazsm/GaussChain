@@ -15,5 +15,4 @@ cp $nfs_dir/ssh_config ~/.ssh/config
 rm -fr $HOME/system-0
 git clone git@github.com:hpdic/system-0.git; cd ~/system-0
 git config --global core.editor "vim"
-git config --global user.name "Dongfang Zhao"
-git config --global user.email "dzhao@uw.edu" 
+
