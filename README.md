@@ -1,7 +1,7 @@
 # ICDE 2026 Submission  
 **Gaussian Attack Detection in Incentive-Token-Based Federated Learning**
 
-This repository contains the implementation for detecting Gaussian attacks in incentive-token-based federated learning systems, as presented in our ICPP 2025 submission. The code includes both the attack model and the blockchain-based auditing mechanism to ensure transparency and robustness in federated environments.
+This repository contains the implementation for detecting Gaussian attacks in incentive-token-based federated learning systems. The code includes both the attack model and the blockchain-based auditing mechanism to ensure transparency and robustness in federated environments.
 
 ---
 
